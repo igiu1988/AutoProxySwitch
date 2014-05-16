@@ -18,3 +18,8 @@ AutoProxySwith
 
 ## Next Version
 以后要把这个写成Mac OS应用，并常驻系统的Menubar。
+
+## 主要参考
+1. http://noctambulator.wordpress.com/2010/07/14/shell-script-to-toggle-automatic-proxy-configuration-settings-in-mac-os-x/
+2. http://apple.stackexchange.com/questions/57412/how-can-i-trigger-a-notification-center-notification-from-an-applescript-or-shel
+3. http://stackoverflow.com/questions/11819336/prevent-networksetup-from-asking-password
